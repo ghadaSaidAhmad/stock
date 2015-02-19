@@ -10,6 +10,10 @@
 	
     <div class="col-md-7">
 	<div class="row" id="PrivacyPolicy">
+   
+   
+     <br>
+      <br>
      
   <h2>Privacy Policy</h2>
 
@@ -59,14 +63,8 @@
      <!-- # slider -->
    
     <div class="col-md-3" >
-      <div class="panel panel-default" style="min-height:200px;background-color:#fff">
-        <div class="panel-heading">Ads title</div>
-        <div class="panel-body"> Ads image </div>
-      </div>
-      <div class="panel panel-default" style="min-height:200px;background-color:#fff">
-        <div class="panel-heading">Ads title</div>
-        <div class="panel-body"> Ads image </div>
-      </div>
+   
+   <?php  include'rightside.php';?>
     </div>
   </div>
 </div>

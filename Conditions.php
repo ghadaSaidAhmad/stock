@@ -10,6 +10,10 @@
 	
     <div class="col-md-7">
 	<div class="row" id="condition">
+  
+  
+     <br>
+      <br>
      
     <h2>Conditions of Use</h2>
 <p>Welcome to Sg.com. SG provides products and services to you when you visit or shop at SG.com, use SG products or services. SG provides Services subject to the following conditions.</p>
@@ -178,15 +182,8 @@ We aim to create a marketplace where traders find what they are looking for. The
      <!-- # slider -->
    
     <div class="col-md-3" >
-      <div class="panel panel-default" style="min-height:200px;background-color:#fff">
-        <div class="panel-heading">Ads title</div>
-        <div class="panel-body"> Ads image </div>
-      </div>
-      <div class="panel panel-default" style="min-height:200px;background-color:#fff">
-        <div class="panel-heading">Ads title</div>
-        <div class="panel-body"> Ads image </div>
-      </div>
-    </div>
+      
+      <?php  include'rightside.php';?>
   </div>
 </div>
 </div>

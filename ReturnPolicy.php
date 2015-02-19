@@ -10,6 +10,10 @@
 	
     <div class="col-md-7">
 	<div class="row" id="ReturnPolicy">
+   
+   
+     <br>
+      <br>
     <h2>Return Policy</h2>
      <ul>
       <li> If you want to return an item, make sure to follow these item condition guidelines.</li>
@@ -43,15 +47,9 @@
      <!-- # slider -->
    
     <div class="col-md-3" >
-      <div class="panel panel-default" style="min-height:200px;background-color:#fff">
-        <div class="panel-heading">Ads title</div>
-        <div class="panel-body"> Ads image </div>
-      </div>
-      <div class="panel panel-default" style="min-height:200px;background-color:#fff">
-        <div class="panel-heading">Ads title</div>
-        <div class="panel-body"> Ads image </div>
-      </div>
-    </div>
+      <?php  include'rightside.php';?>
+      
+      
   </div>
 </div>
 </div>

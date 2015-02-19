@@ -23,14 +23,8 @@
      <!-- # slider -->
    
     <div class="col-md-3" >
-      <div class="panel panel-default" style="min-height:200px;background-color:#fff">
-        <div class="panel-heading">Ads title</div>
-        <div class="panel-body"> Ads image </div>
-      </div>
-      <div class="panel panel-default" style="min-height:200px;background-color:#fff">
-        <div class="panel-heading">Ads title</div>
-        <div class="panel-body"> Ads image </div>
-      </div>
+     
+     <!--#col_md_3 -->
     </div>
   </div>
 </div>
